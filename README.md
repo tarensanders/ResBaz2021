@@ -1,5 +1,7 @@
 # ResBaz2021
-Slides for the ResBaz Sydney 2021 talk
+Slides for the ResBaz Sydney 2021 talk.
+
+[View the slides here](https://tarensanders.github.io/ResBaz2021)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
