@@ -440,7 +440,7 @@ background-size: 10%
 
 .center[
 <br><br><br><br><br>
-<img src="imgs/taren-hearts-targets.jpg", width="1000px">
+<img src="imgs/Taren-hearts-targets.jpg", width="1000px">
 ]
 
 ---
