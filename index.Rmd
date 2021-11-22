@@ -95,25 +95,30 @@ name: why
 
 .pull-left[
 .center[
-### Research community
+.large[Research community]
 
 `r fa("recycle", height = "3em")`
 <br><br>
 `r fa("hammer", height = "3em")`
 <br><br>
 `r fa("microscope", height = "3em")`
+<br><br>
+`r fa("not-equal", height = "3em")`
 ]]
 
 --
 
 .pull-right[
 .center[
-### You
+.large[You]
+
 `r fa("forward", height = "3em")`
 <br><br>
 `r fa("history", height = "3em")`
 <br><br>
 `r fa("thumbs-up", height = "3em")`
+<br><br>
+`r fa("redo", height = "3em")`
 
 ]]
 
@@ -125,12 +130,14 @@ name: why
 -   Find mistakes or assess impact of assumptions
 -   Necessary for replication
 -   An important part of open science
+-   Test the impact of your assumptions
 
 ### Benefits you
 
 -   Efficiency
 -   Track a project history
 -   More faith in results
+-   Reproducible to you
 
 ---
 background-image: url(imgs/Spectrum.png)
@@ -555,11 +562,12 @@ class: center, inverse, middle
 # `r emo::ji("crossed_swords")` Challenges Ahead
 
 ---
+
 # `r emo::ji("crossed_swords")` Challenges Ahead
 
 --
 
-1. How to collaborate with people who don't use `r fa("r-project")`, `r fa("github")`, or `r fa("markdown")`?
+1. How to work with `r emo::ji("T-Rex")` dinosaurs (people who don't use `r fa("r-project")`, `r fa("github")`, or `r fa("markdown")`)
 
 --
 
@@ -573,18 +581,31 @@ class: center, inverse, middle
 
 E.g., Phil's problem with upgrading OS.
 
-
  
 ---
 name: resources
 
-# Resources
+# Tips & Tricks
 
-### Getting Started with Reproducible Research
+--
 
-https://monashdatafluency.github.io/r-rep-res/
+1. Move collaboration out of email
 
-https://the-turing-way.netlify.app/welcome.html
+--
+
+2. Taking a professional mindset
+
+--
+
+3. Reproducibility across projects: make the process repeatable
+
+--
+
+4. Try a retrospective to identify gaps. Build tools to fill the gaps.
+
+--
+
+5. One tweak per week
 
 ---
 
